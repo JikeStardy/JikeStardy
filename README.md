@@ -1,4 +1,14 @@
-### Hi there 👋
+<!--   my-ticker -->    
+[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%2C+Welcome+to+My+Profile!;Stay+hungry%2C+Stay+foolish)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/)
+
+<!-- activity graph -->
+[![JikeStardy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JikeStardy&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- github stats -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![JikeStardy's github stats](https://github-readme-stats.vercel.app/api?username=JikeStardy&show_icons=true&theme=radical&include_all_commits=true) | ![JikeStardy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JikeStardy&theme=radical&layout=compact) |
+
 
 <!--
 **JikeStardy/JikeStardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
